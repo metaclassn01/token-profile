@@ -1,0 +1,17 @@
+{
+  "symbol": "WKT",
+  "address": "0x4817d4b076a646fb1248C89250Ce492A5CF1dB81",
+  "overview":{
+        "en": "WKT(World Knowledge Token) is issued by Metaclassn. Users can earn WKT by joining classes on Metaclassn.",
+  },
+  "email": "support@metaclassn.com",
+  "website": "https://www.metaclassn.com",
+  "whitepaper": "https://www.metaclassn.io/white-paper",
+  "state": "NORMAL",
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/metaclassn",
+    "telegram": "https://t.me/metaclassnofficial",
+    "github": "",
+  }
+}
